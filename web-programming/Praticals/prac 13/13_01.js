@@ -1,7 +1,7 @@
 function find_the_big_guy() {
     // using windows.prompt() to get user input
     var n1 = parseInt(
-        parse("Enter a number 1: ")
+        prompt("Enter a number 1: ")
     );
     var n2 = parseInt(
         prompt("Enter a number 2: ")
